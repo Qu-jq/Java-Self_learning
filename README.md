@@ -33,5 +33,4 @@
 
 如果有什么问题的话，可以添加下面的微信联系我：
 
-<img src="http://q3qm0iisd.bkt.clouddn.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" alt="正在加载" style="zoom: 25%;" />
-=======
+<img src="http://q3qm0iisd.bkt.clouddn.com/微信二维码.jpg" style="zoom:25%;" />
