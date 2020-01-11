@@ -4,7 +4,7 @@
 
 ## 1. Java知识点总结（待做）
 
-
+* [Java基础程序汇总](https://github.com/Qu-jq/MyJavaEE)(这是我在学习Java基础时写的一些程序)
 
 ## 2. MySQL数据库
 
