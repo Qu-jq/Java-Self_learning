@@ -18,9 +18,9 @@
   - [第五章 子查询和连接](http://www.qujq.me/2019/12/18/第五章子查询和连接/)
   - [第六章 运算符和函数](http://www.qujq.me/2020/01/06/第六章运算符和函数/)
   - [第七章 自定义函数](http://www.qujq.me/2020/01/07/第七章自定义函数/)
-  - [第八章 MySQL存储过程](http://www.qujq.me/2020/01/07/第八章 MySQL存储过程/)
+  - [第八章 MySQL存储过程](http://www.qujq.me/2020/01/07/第八章MySQL存储过程/)
   - [第九章 MySQL存储引擎](http://www.qujq.me/2020/01/08/第九章MySQL存储引擎/)
-  - [第十章 MySQL图形化管理工具](http://www.qujq.me/2020/01/08/第十章 MySQL图形化管理工具/)
+  - [第十章 MySQL图形化管理工具](http://www.qujq.me/2020/01/08/第十章MySQL图形化管理工具/)
 
 ## 3.数据结构与算法
 
