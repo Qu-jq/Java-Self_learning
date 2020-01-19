@@ -29,6 +29,7 @@
   - [快速排序](http://www.qujq.me/2019/12/11/JavaAlgsQuickSort/)
 - 数据结构（待办）
   - [稀疏数组](http://www.qujq.me/2020/01/18/稀疏数组/#more)
+  - [队列](http://www.qujq.me/2020/01/19/队列/#more)
 
 
 
