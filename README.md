@@ -37,4 +37,4 @@
 
 如果有什么问题的话，可以添加下面的微信联系我：
 
-<div align=center><img src="http://q3qm0iisd.bkt.clouddn.com/微信二维码.jpg"  width="200" height="200" />
+<div align=center><img src="https://res.cloudinary.com/qujq/image/upload/v1580964382/myPIC/微信二维码_qeu7hu.jpg"  width="200" height="200" />
